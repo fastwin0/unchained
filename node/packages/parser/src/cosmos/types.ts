@@ -33,6 +33,6 @@ export interface Tx {
   index: number
   memo?: string
   value: string
-  messages: Array<Message>
-  events: Array<Event>
+  messages?: Array<Message>
+  events?: Array<Event>
 }
