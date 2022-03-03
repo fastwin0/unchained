@@ -2167,10 +2167,10 @@
   resolved "https://registry.yarnpkg.com/@pulumi/query/-/query-0.3.0.tgz#f496608e86a18c3dd31b6c533408e2441c29071d"
   integrity sha512-xfo+yLRM2zVjVEA4p23IjQWzyWl1ZhWOGobsBqRpIarzLvwNH/RAGaoehdxlhx4X92302DrpdIFgTICMN4P38w==
 
-"@shapeshiftoss/caip@^1.11.1":
-  version "1.11.1"
-  resolved "https://registry.yarnpkg.com/@shapeshiftoss/caip/-/caip-1.11.1.tgz#3b81f4c8973b4d9af635256e2abbf993aa577eac"
-  integrity sha512-8Cqn/4tqpNJDL6RHD2duQGe2U289I0A7gGp7bPQGMbtvy7cr5LIwo5nrPIuYfZUl2h1hvpyoVFkjkGWGMiqdRA==
+"@shapeshiftoss/caip@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@shapeshiftoss/caip/-/caip-2.0.0.tgz#6aba7a86eb0cb27576ae6d62dd9257e3d754d8a1"
+  integrity sha512-R3KpNrJFF4hibcZpBD81ANKJWmj5HuvYtVg59UVccUYWU3eNn5SNYkl+zukDvSnXcewwzJ0ukpcKHeSictpe6A==
 
 "@shapeshiftoss/cluster-launcher@0.7.2":
   version "0.7.2"
@@ -2188,10 +2188,10 @@
   resolved "https://registry.yarnpkg.com/@shapeshiftoss/logger/-/logger-1.0.1.tgz#fc9d9f68a626e526bd55053dbd56b14e4b63edf1"
   integrity sha512-xxAHoUozg1WtSI6XzaPAJDFJOkMkWIAWKUCadwIMXHYjxP9FPYWoOBcwftnb5B81gZyxT6FEScIduwNq2laH+Q==
 
-"@shapeshiftoss/types@^1.23.0":
-  version "1.23.0"
-  resolved "https://registry.yarnpkg.com/@shapeshiftoss/types/-/types-1.23.0.tgz#d9d542616fa927244591ebe8d405006ebb2fe5db"
-  integrity sha512-itqM2tN5/2ZlQEYbZMHGVYzwb6eYWDp9FnNUUuRAljkTG8OFRhNoQtg97K+d+t4NwZT486RA/D6PD+B8MHd72g==
+"@shapeshiftoss/types@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@shapeshiftoss/types/-/types-2.0.0.tgz#de64b40bc777551d83c0938a319ba805069caf10"
+  integrity sha512-1NOcxKikRX9T8JRu6d+cSvaWscrnVzqanOrDhPkCzDfjmqZQ5JgVR1dz7bTN6s83oZiRcM80zAIfX9lJ06cHTg==
 
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
@@ -2962,12 +2962,12 @@ axios@0.21.1, axios@^0.21.1:
   dependencies:
     follow-redirects "^1.10.0"
 
-axios@^0.21.2:
-  version "0.21.4"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-0.21.4.tgz#c67b90dc0568e5c1cf2b0b858c43ba28e2eda575"
-  integrity sha512-ut5vewkiu8jjGBdqpM44XxjuCjq9LAKeHVmoVfHVzy8eHgxxq8SbAVQNovDA8mVi05kP0Ea/n/UzcSHcTJQfNg==
+axios@^0.26.0:
+  version "0.26.0"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.26.0.tgz#9a318f1c69ec108f8cd5f3c3d390366635e13928"
+  integrity sha512-lKoGLMYtHvFrPVt3r+RBMp9nh34N0M8zEfCWqdWZx6phynIEhQqAdydpyBAAG211zlhX9Rgu08cOamy6XjE5Og==
   dependencies:
-    follow-redirects "^1.14.0"
+    follow-redirects "^1.14.8"
 
 babel-jest@^27.2.5:
   version "27.2.5"
@@ -4758,10 +4758,10 @@ follow-redirects@^1.10.0:
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.13.3.tgz#e5598ad50174c1bc4e872301e82ac2cd97f90267"
   integrity sha512-DUgl6+HDzB0iEptNQEXLx/KhTmDb8tZUHSeLqpnjpknR70H0nC2t9N73BK6fN4hOvJ84pKlIQVQ4k5FFlBedKA==
 
-follow-redirects@^1.14.0:
-  version "1.14.4"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.4.tgz#838fdf48a8bbdd79e52ee51fb1c94e3ed98b9379"
-  integrity sha512-zwGkiSXC1MUJG/qmeIFH2HBJx9u0V46QGUe3YR1fXG8bXQxq7fLj0RjLZQ5nubr9qNJUZrH+xUcwXEoXNpfS+g==
+follow-redirects@^1.14.8:
+  version "1.14.9"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.9.tgz#dd4ea157de7bfaf9ea9b3fbd85aa16951f78d8d7"
+  integrity sha512-MQDfihBQYMcyy5dhRDJUHcw7lb2Pv/TuE6xP1vyraLukNDHKbDxDNaOE3NbCAdKQApno+GPRyo1YAp89yCjK4w==
 
 forever-agent@~0.6.1:
   version "0.6.1"
